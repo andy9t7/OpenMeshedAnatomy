@@ -1,6 +1,0 @@
-trame: # Default app under /index.html
-  www_modules:
-    - oma.module
-  app: oma
-oma: # /oma.html
-  app: oma

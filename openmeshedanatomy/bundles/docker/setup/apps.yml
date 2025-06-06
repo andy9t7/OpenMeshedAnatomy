@@ -1,0 +1,6 @@
+trame: # Default app under /index.html
+  www_modules:
+    - openmeshedanatomy.module
+  app: openmeshedanatomy
+openmeshedanatomy: # /openmeshedanatomy.html
+  app: openmeshedanatomy
